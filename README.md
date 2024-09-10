@@ -1,1 +1,3 @@
-
+Overview: This game is a simple and entertaining project where the player controls a dragon, with the goal of avoiding obstacles by jumping over them. The dragon's appearance can be customized, allowing players to choose any dragon image or character they'd like. The objective is to jump over an obstacles to achieve higher scores, while the game progressively becomes faster and more challenging.
+The game is designed for players of all ages who enjoy simple, fast-paced games. It is perfect for casual gaming sessions, making it an ideal choice for mobile or browser platforms.
+This fun dragon game is an engaging and addictive project that allows players to test their reflexes while enjoying customizable visuals and simple controls. With easy-to-learn mechanics and an increasing challenge curve, it has great replay value and can be a perfect introduction to game development concepts.
